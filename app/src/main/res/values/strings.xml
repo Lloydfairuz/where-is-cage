@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Where Is Cage</string>
+    <string name="chronoModOne">ChronoMode 1</string>
+    <string name="chronoModTwo">ChronoMode 2</string>
+    <string name="hallOfFame">Hall Of Fame</string>
+    <string name="playerName">Nom du joueur</string>
+    <string name="chooseMode">Choisissez votre mode</string>
+    <string name="playerNameHint">Entrez votre pseudo de joueur</string>
+    <string name="loseMessage">Le temps est écoulé.</string>
+    <string name="normalMode">Normal</string>
+    <string name="freeze">Penalité 2 secondes</string>
+    <string name="penality">Penalité 2 secondes</string>
+    <string name="finish">Jeu fini votre score final est :</string>
+    <string name="end">Le temps a écoulé.</string>
+</resources>
